@@ -75,7 +75,7 @@ export default {
 				'node_modules/svelte/**', 
 				'node_modules/@sveltejs/**'
 			],
-            babelHelpers: 'runtime'
+            babelHelpers: 'bundled'
         }),
 
         // If we're building for production (npm run build

@@ -3,8 +3,6 @@
 </script>
 
 <style lang="scss">
-    @import 'variables';
-
     main {
         text-align: center;
         padding: 1em;

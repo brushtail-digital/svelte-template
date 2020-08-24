@@ -21,7 +21,7 @@
     "@tsconfig/svelte": "^1.0.10",
     "@types/jest": "^26.0.10",
     "babel-jest": "^26.3.0",
-    "jest": "^26.4.0",
+    "jest": "^26.4.2",
     "postcss-preset-env": "^6.7.0",
     "prettier": "^2.0.5",
     "prettier-plugin-svelte": "^1.1.0",
